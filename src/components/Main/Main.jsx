@@ -14,7 +14,7 @@ const Main = () => {
 
   return (
     <Card className={classes.root} >
-      <CardHeader title="ExpenseTracker" subheader="By James Jerkowski" />
+      <CardHeader title="ExpenseTracker Pro" subheader="By James Jerkowski" />
       <CardContent>
         <Typography align="center" variant="h5">Total Balance {currencyFormat(balance)}</Typography>
         <Typography variant="subtitle1" style={{ lineHeight: '1.5em', marginTop: '20px' }}>
