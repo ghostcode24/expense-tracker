@@ -10,3 +10,4 @@ React, Material-UI, Speechly, Context API
 
 Visit https://www.linkedin.com/in/jerkowski 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b8934838-a15a-4446-9405-e646e657c9f9/deploy-status)](https://app.netlify.com/sites/expensetrackerpro/deploys)
